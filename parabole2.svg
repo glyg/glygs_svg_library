@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with matplotlib (http://matplotlib.sourceforge.net/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="576pt"
+   height="432pt"
+   viewBox="0 0 576 432"
+   version="1.1"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="parabole2.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata3043">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3041">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 270 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="720 : 270 : 1"
+       inkscape:persp3d-origin="360 : 180 : 1"
+       id="perspective3045" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-height="727"
+     inkscape:window-width="1274"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="false"
+     inkscape:zoom="0.42916667"
+     inkscape:cx="1063.1144"
+     inkscape:cy="19.236266"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:current-layer="line2d1" />
+  <g
+     id="figure1">
+    <path
+       style="fill: #ffffff; stroke: #ffffff; stroke-width: 1.0; stroke-linejoin: miter; stroke-linecap: square;  opacity: 1.0"
+       d="M0.0 432.0L576.0 432.0L576.0 0.0L0.0 0.0L0.0 432.0"
+       id="path2767" />
+    <g
+       id="axes1">
+      <path
+         style="fill: #ffffff; stroke: #000000; stroke-width: 1.0; stroke-linejoin: miter; stroke-linecap: square;  opacity: 1.0"
+         d="M72.0 388.8L518.4 388.8L518.4 43.2L72.0 43.2L72.0 388.8"
+         id="path2770" />
+      <g
+         id="line2d1">
+        <defs
+           id="defs2773">
+          <clipPath
+             id="pdfe8138a4e5f5c14e3df41988c01b1aa">
+            <rect
+               x="72.0"
+               y="43.2"
+               width="446.4"
+               height="345.6"
+               id="rect2776" />
+          </clipPath>
+        </defs>
+        <path
+           style="fill: none; stroke: #ff0000; stroke-width: 2; stroke-linejoin: miter; stroke-linecap: square;  opacity: 1.0"
+           clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+           d="M 96.175301,306.73052 L 106.53641,316.05996 L 116.89751,324.40735 L 127.25862,331.7727 L 137.61973,338.156 L 147.98083,343.55726 L 158.34194,347.97647 L 168.70304,351.41363 L 179.06415,353.86875 L 189.42526,355.34182 L 199.78636,355.83284 L 210.14747,355.34182 L 220.50858,353.86875 L 230.86968,351.41363 L 241.23079,347.97647 L 251.5919,343.55726 L 261.953,338.156 L 272.31411,331.7727 L 282.67521,324.40735 L 293.03632,316.05996 L 303.39743,306.73052 L 313.75853,296.41903 L 324.11964,285.12549 L 334.48075,272.84991 L 344.84185,259.59228 L 355.20296,245.35261 L 365.56406,230.13089 L 375.92517,213.92712 L 386.28628,196.74131 L 396.64738,178.57345 L 407.00849,159.42354 L 417.3696,139.29159 L 427.7307,118.17759 L 438.09181,96.081541 L 448.45292,73.003448 L 458.81402,48.943309"
+           id="path2778"
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccc" />
+      </g>
+      <g
+         id="matplotlib.axis1">
+        <g
+           id="xtick1">
+          <g
+             id="line2d2">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M96.1753007051 388.8L96.1753007051 43.2"
+               id="path2783" />
+          </g>
+          <g
+             id="line2d3">
+            <defs
+               id="defs2786">
+              <path
+                 id="mffffbd93ab9c4a8848ec339ada90541e"
+                 d="M0.0 0.0L0.0 -4.0" />
+            </defs>
+            <g
+               id="g2789">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mffffbd93ab9c4a8848ec339ada90541e"
+                 x="96.175301"
+                 y="388.800000"
+                 id="use2791" />
+            </g>
+          </g>
+          <g
+             id="line2d4">
+            <defs
+               id="defs2794">
+              <path
+                 id="m55446021c8a568fc6cf5567925c8a1ef"
+                 d="M0.0 0.0L0.0 4.0" />
+            </defs>
+            <g
+               id="g2797">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m55446021c8a568fc6cf5567925c8a1ef"
+                 x="96.175301"
+                 y="43.200000"
+                 id="use2799" />
+            </g>
+          </g>
+          <defs
+             id="defs2801">
+            <path
+               id="c_95f14088edd5858aea2c3b4aa58e4de2"
+               d="M31.78125 -66.40625q-7.609375 0.0 -11.453125 7.5q-3.828125 7.484375 -3.828125 22.53125q0.0 14.984375 3.828125 22.484375q3.84375 7.5 11.453125 7.5q7.671875 0.0 11.5 -7.5q3.84375 -7.5 3.84375 -22.484375q0.0 -15.046875 -3.84375 -22.53125q-3.828125 -7.5 -11.5 -7.5M31.78125 -74.21875q12.265625 0.0 18.734375 9.703125q6.46875 9.6875 6.46875 28.140625q0.0 18.40625 -6.46875 28.109375q-6.46875 9.6875 -18.734375 9.6875q-12.25 0.0 -18.71875 -9.6875q-6.46875 -9.703125 -6.46875 -28.109375q0.0 -18.453125 6.46875 -28.140625q6.46875 -9.703125 18.71875 -9.703125" />
+          </defs>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(93.1518632051,401.70625)scale(0.12)"
+             id="g2804">
+            <use
+               xlink:href="#c_95f14088edd5858aea2c3b4aa58e4de2"
+               id="use2806" />
+          </g>
+        </g>
+        <g
+           id="xtick2">
+          <g
+             id="line2d5">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M199.786363873 388.8L199.786363873 43.2"
+               id="path2810" />
+          </g>
+          <g
+             id="line2d6">
+            <g
+               id="g2813">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mffffbd93ab9c4a8848ec339ada90541e"
+                 x="199.786364"
+                 y="388.800000"
+                 id="use2815" />
+            </g>
+          </g>
+          <g
+             id="line2d7">
+            <g
+               id="g2818">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m55446021c8a568fc6cf5567925c8a1ef"
+                 x="199.786364"
+                 y="43.200000"
+                 id="use2820" />
+            </g>
+          </g>
+          <defs
+             id="defs2822">
+            <path
+               id="c_2322e4f977aa11305e2465866d88750f"
+               d="M12.40625 -8.296875l16.109375 0.0l0.0 -55.625l-17.53125 3.515625l0.0 -8.984375l17.4375 -3.515625l9.859375 0.0l0.0 64.609375l16.109375 0.0l0.0 8.296875l-41.984375 0.0z" />
+          </defs>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(197.176988873,401.55)scale(0.12)"
+             id="g2825">
+            <use
+               xlink:href="#c_2322e4f977aa11305e2465866d88750f"
+               id="use2827" />
+          </g>
+        </g>
+        <g
+           id="xtick3">
+          <g
+             id="line2d8">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M303.397427042 388.8L303.397427042 43.2"
+               id="path2831" />
+          </g>
+          <g
+             id="line2d9">
+            <g
+               id="g2834">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mffffbd93ab9c4a8848ec339ada90541e"
+                 x="303.397427"
+                 y="388.800000"
+                 id="use2836" />
+            </g>
+          </g>
+          <g
+             id="line2d10">
+            <g
+               id="g2839">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m55446021c8a568fc6cf5567925c8a1ef"
+                 x="303.397427"
+                 y="43.200000"
+                 id="use2841" />
+            </g>
+          </g>
+          <defs
+             id="defs2843">
+            <path
+               id="c_eaed548a39c8bfc1ad9c7a767102867e"
+               d="M19.1875 -8.296875l34.421875 0.0l0.0 8.296875l-46.28125 0.0l0.0 -8.296875q5.609375 -5.8125 15.296875 -15.59375q9.703125 -9.796875 12.1875 -12.640625q4.734375 -5.3125 6.609375 -9.0q1.890625 -3.6875 1.890625 -7.25q0.0 -5.8125 -4.078125 -9.46875q-4.078125 -3.671875 -10.625 -3.671875q-4.640625 0.0 -9.796875 1.609375q-5.140625 1.609375 -11.0 4.890625l0.0 -9.96875q5.953125 -2.390625 11.125 -3.609375q5.1875 -1.21875 9.484375 -1.21875q11.328125 0.0 18.0625 5.671875q6.734375 5.65625 6.734375 15.125q0.0 4.5 -1.6875 8.53125q-1.671875 4.015625 -6.125 9.484375q-1.21875 1.421875 -7.765625 8.1875q-6.53125 6.765625 -18.453125 18.921875" />
+          </defs>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(300.616177042,401.70625)scale(0.12)"
+             id="g2846">
+            <use
+               xlink:href="#c_eaed548a39c8bfc1ad9c7a767102867e"
+               id="use2848" />
+          </g>
+        </g>
+        <g
+           id="xtick4">
+          <g
+             id="line2d11">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M407.00849021 388.8L407.00849021 43.2"
+               id="path2852" />
+          </g>
+          <g
+             id="line2d12">
+            <g
+               id="g2855">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mffffbd93ab9c4a8848ec339ada90541e"
+                 x="407.008490"
+                 y="388.800000"
+                 id="use2857" />
+            </g>
+          </g>
+          <g
+             id="line2d13">
+            <g
+               id="g2860">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m55446021c8a568fc6cf5567925c8a1ef"
+                 x="407.008490"
+                 y="43.200000"
+                 id="use2862" />
+            </g>
+          </g>
+          <defs
+             id="defs2864">
+            <path
+               id="c_1a789725981e3580f6e795985204066c"
+               d="M40.578125 -39.3125q7.078125 1.515625 11.046875 6.3125q3.984375 4.78125 3.984375 11.8125q0.0 10.78125 -7.421875 16.703125q-7.421875 5.90625 -21.09375 5.90625q-4.578125 0.0 -9.4375 -0.90625q-4.859375 -0.90625 -10.03125 -2.71875l0.0 -9.515625q4.09375 2.390625 8.96875 3.609375q4.890625 1.21875 10.21875 1.21875q9.265625 0.0 14.125 -3.65625q4.859375 -3.65625 4.859375 -10.640625q0.0 -6.453125 -4.515625 -10.078125q-4.515625 -3.640625 -12.5625 -3.640625l-8.5 0.0l0.0 -8.109375l8.890625 0.0q7.265625 0.0 11.125 -2.90625q3.859375 -2.90625 3.859375 -8.375q0.0 -5.609375 -3.984375 -8.609375q-3.96875 -3.015625 -11.390625 -3.015625q-4.0625 0.0 -8.703125 0.890625q-4.640625 0.875 -10.203125 2.71875l0.0 -8.78125q5.625 -1.5625 10.53125 -2.34375q4.90625 -0.78125 9.25 -0.78125q11.234375 0.0 17.765625 5.109375q6.546875 5.09375 6.546875 13.78125q0.0 6.0625 -3.46875 10.234375q-3.46875 4.171875 -9.859375 5.78125" />
+          </defs>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(404.13349021,401.70625)scale(0.12)"
+             id="g2867">
+            <use
+               xlink:href="#c_1a789725981e3580f6e795985204066c"
+               id="use2869" />
+          </g>
+        </g>
+        <g
+           id="xtick5">
+          <g
+             id="line2d14">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M510.619553379 388.8L510.619553379 43.2"
+               id="path2873" />
+          </g>
+          <g
+             id="line2d15">
+            <g
+               id="g2876">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mffffbd93ab9c4a8848ec339ada90541e"
+                 x="510.619553"
+                 y="388.800000"
+                 id="use2878" />
+            </g>
+          </g>
+          <g
+             id="line2d16">
+            <g
+               id="g2881">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m55446021c8a568fc6cf5567925c8a1ef"
+                 x="510.619553"
+                 y="43.200000"
+                 id="use2883" />
+            </g>
+          </g>
+          <defs
+             id="defs2885">
+            <path
+               id="c_47a349c5fab6f63bcee0b405ba445c6f"
+               d="M37.796875 -64.3125l-24.90625 38.921875l24.90625 0.0zM35.203125 -72.90625l12.40625 0.0l0.0 47.515625l10.40625 0.0l0.0 8.203125l-10.40625 0.0l0.0 17.1875l-9.8125 0.0l0.0 -17.1875l-32.90625 0.0l0.0 -9.515625z" />
+          </defs>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(507.432053379,401.55)scale(0.12)"
+             id="g2888">
+            <use
+               xlink:href="#c_47a349c5fab6f63bcee0b405ba445c6f"
+               id="use2890" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="matplotlib.axis2">
+        <g
+           id="ytick1">
+          <g
+             id="line2d17">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M72.0 355.832841252L518.4 355.832841252"
+               id="path2895" />
+          </g>
+          <g
+             id="line2d18">
+            <defs
+               id="defs2898">
+              <path
+                 id="m2d700b5b5d738bf2751cd81726959973"
+                 d="M0.0 0.0L4.0 0.0" />
+            </defs>
+            <g
+               id="g2901">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m2d700b5b5d738bf2751cd81726959973"
+                 x="72.000000"
+                 y="355.832841"
+                 id="use2903" />
+            </g>
+          </g>
+          <g
+             id="line2d19">
+            <defs
+               id="defs2906">
+              <path
+                 id="mb380ebd9df8a07a3be12f7447ef9bdd8"
+                 d="M0.0 0.0L-4.0 0.0" />
+            </defs>
+            <g
+               id="g2909">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mb380ebd9df8a07a3be12f7447ef9bdd8"
+                 x="518.400000"
+                 y="355.832841"
+                 id="use2911" />
+            </g>
+          </g>
+          <defs
+             id="defs2913">
+            <path
+               id="c_139293c3576e2a5eaff9a02b9ab719e6"
+               d="M10.59375 -35.5l62.59375 0.0l0.0 8.296875l-62.59375 0.0z" />
+          </defs>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(52.765625,360.285966252)scale(0.12)"
+             id="g2916">
+            <use
+               xlink:href="#c_139293c3576e2a5eaff9a02b9ab719e6"
+               id="use2918" />
+            <use
+               xlink:href="#c_eaed548a39c8bfc1ad9c7a767102867e"
+               x="83.7890625"
+               id="use2920" />
+          </g>
+        </g>
+        <g
+           id="ytick2">
+          <g
+             id="line2d20">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M72.0 306.730516116L518.4 306.730516116"
+               id="path2924" />
+          </g>
+          <g
+             id="line2d21">
+            <g
+               id="g2927">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m2d700b5b5d738bf2751cd81726959973"
+                 x="72.000000"
+                 y="306.730516"
+                 id="use2929" />
+            </g>
+          </g>
+          <g
+             id="line2d22">
+            <g
+               id="g2932">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mb380ebd9df8a07a3be12f7447ef9bdd8"
+                 x="518.400000"
+                 y="306.730516"
+                 id="use2934" />
+            </g>
+          </g>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(61.953125,311.097703616)scale(0.12)"
+             id="g2936">
+            <use
+               xlink:href="#c_95f14088edd5858aea2c3b4aa58e4de2"
+               id="use2938" />
+          </g>
+        </g>
+        <g
+           id="ytick3">
+          <g
+             id="line2d23">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M72.0 257.62819098L518.4 257.62819098"
+               id="path2942" />
+          </g>
+          <g
+             id="line2d24">
+            <g
+               id="g2945">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m2d700b5b5d738bf2751cd81726959973"
+                 x="72.000000"
+                 y="257.628191"
+                 id="use2947" />
+            </g>
+          </g>
+          <g
+             id="line2d25">
+            <g
+               id="g2950">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mb380ebd9df8a07a3be12f7447ef9bdd8"
+                 x="518.400000"
+                 y="257.628191"
+                 id="use2952" />
+            </g>
+          </g>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(62.4375,262.08131598)scale(0.12)"
+             id="g2954">
+            <use
+               xlink:href="#c_eaed548a39c8bfc1ad9c7a767102867e"
+               id="use2956" />
+          </g>
+        </g>
+        <g
+           id="ytick4">
+          <g
+             id="line2d26">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M72.0 208.525865844L518.4 208.525865844"
+               id="path2960" />
+          </g>
+          <g
+             id="line2d27">
+            <g
+               id="g2963">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m2d700b5b5d738bf2751cd81726959973"
+                 x="72.000000"
+                 y="208.525866"
+                 id="use2965" />
+            </g>
+          </g>
+          <g
+             id="line2d28">
+            <g
+               id="g2968">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mb380ebd9df8a07a3be12f7447ef9bdd8"
+                 x="518.400000"
+                 y="208.525866"
+                 id="use2970" />
+            </g>
+          </g>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(61.625,212.900865844)scale(0.12)"
+             id="g2972">
+            <use
+               xlink:href="#c_47a349c5fab6f63bcee0b405ba445c6f"
+               id="use2974" />
+          </g>
+        </g>
+        <g
+           id="ytick5">
+          <g
+             id="line2d29">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M72.0 159.423540708L518.4 159.423540708"
+               id="path2978" />
+          </g>
+          <g
+             id="line2d30">
+            <g
+               id="g2981">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m2d700b5b5d738bf2751cd81726959973"
+                 x="72.000000"
+                 y="159.423541"
+                 id="use2983" />
+            </g>
+          </g>
+          <g
+             id="line2d31">
+            <g
+               id="g2986">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mb380ebd9df8a07a3be12f7447ef9bdd8"
+                 x="518.400000"
+                 y="159.423541"
+                 id="use2988" />
+            </g>
+          </g>
+          <defs
+             id="defs2990">
+            <path
+               id="c_b3a8b59ce25d33f84315ee39f6514694"
+               d="M33.015625 -40.375q-6.640625 0.0 -10.53125 4.546875q-3.875 4.53125 -3.875 12.4375q0.0 7.859375 3.875 12.4375q3.890625 4.5625 10.53125 4.5625q6.640625 0.0 10.515625 -4.5625q3.875 -4.578125 3.875 -12.4375q0.0 -7.90625 -3.875 -12.4375q-3.875 -4.546875 -10.515625 -4.546875M52.59375 -71.296875l0.0 8.984375q-3.71875 -1.75 -7.5 -2.671875q-3.78125 -0.9375 -7.5 -0.9375q-9.765625 0.0 -14.921875 6.59375q-5.140625 6.59375 -5.875 19.921875q2.875 -4.25 7.21875 -6.515625q4.359375 -2.265625 9.578125 -2.265625q10.984375 0.0 17.359375 6.671875q6.375 6.65625 6.375 18.125q0.0 11.234375 -6.640625 18.03125q-6.640625 6.78125 -17.671875 6.78125q-12.65625 0.0 -19.34375 -9.6875q-6.6875 -9.703125 -6.6875 -28.109375q0.0 -17.28125 8.203125 -27.5625q8.203125 -10.28125 22.015625 -10.28125q3.71875 0.0 7.5 0.734375q3.78125 0.734375 7.890625 2.1875" />
+          </defs>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(61.96875,163.790728208)scale(0.12)"
+             id="g2993">
+            <use
+               xlink:href="#c_b3a8b59ce25d33f84315ee39f6514694"
+               id="use2995" />
+          </g>
+        </g>
+        <g
+           id="ytick6">
+          <g
+             id="line2d32">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M72.0 110.321215572L518.4 110.321215572"
+               id="path2999" />
+          </g>
+          <g
+             id="line2d33">
+            <g
+               id="g3002">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m2d700b5b5d738bf2751cd81726959973"
+                 x="72.000000"
+                 y="110.321216"
+                 id="use3004" />
+            </g>
+          </g>
+          <g
+             id="line2d34">
+            <g
+               id="g3007">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mb380ebd9df8a07a3be12f7447ef9bdd8"
+                 x="518.400000"
+                 y="110.321216"
+                 id="use3009" />
+            </g>
+          </g>
+          <defs
+             id="defs3011">
+            <path
+               id="c_0f8aa7a3642d7cc7afc284b770f4c32d"
+               d="M31.78125 -34.625q-7.03125 0.0 -11.0625 3.765625q-4.015625 3.765625 -4.015625 10.34375q0.0 6.59375 4.015625 10.359375q4.03125 3.765625 11.0625 3.765625q7.03125 0.0 11.078125 -3.78125q4.0625 -3.796875 4.0625 -10.34375q0.0 -6.578125 -4.03125 -10.34375q-4.015625 -3.765625 -11.109375 -3.765625M21.921875 -38.8125q-6.34375 -1.5625 -9.890625 -5.90625q-3.53125 -4.359375 -3.53125 -10.609375q0.0 -8.734375 6.21875 -13.8125q6.234375 -5.078125 17.0625 -5.078125q10.890625 0.0 17.09375 5.078125q6.203125 5.078125 6.203125 13.8125q0.0 6.25 -3.546875 10.609375q-3.53125 4.34375 -9.828125 5.90625q7.125 1.65625 11.09375 6.5q3.984375 4.828125 3.984375 11.796875q0.0 10.609375 -6.46875 16.28125q-6.46875 5.65625 -18.53125 5.65625q-12.046875 0.0 -18.53125 -5.65625q-6.46875 -5.671875 -6.46875 -16.28125q0.0 -6.96875 4.0 -11.796875q4.015625 -4.84375 11.140625 -6.5M18.3125 -54.390625q0.0 5.65625 3.53125 8.828125q3.546875 3.171875 9.9375 3.171875q6.359375 0.0 9.9375 -3.171875q3.59375 -3.171875 3.59375 -8.828125q0.0 -5.671875 -3.59375 -8.84375q-3.578125 -3.171875 -9.9375 -3.171875q-6.390625 0.0 -9.9375 3.171875q-3.53125 3.171875 -3.53125 8.84375" />
+          </defs>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(62.0,114.688403072)scale(0.12)"
+             id="g3014">
+            <use
+               xlink:href="#c_0f8aa7a3642d7cc7afc284b770f4c32d"
+               id="use3016" />
+          </g>
+        </g>
+        <g
+           id="ytick7">
+          <g
+             id="line2d35">
+            <path
+               style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt; stroke-dasharray: 1.0,3.0; stroke-dashoffset: 0; opacity: 1.0"
+               clip-path="url(#pdfe8138a4e5f5c14e3df41988c01b1aa)"
+               d="M72.0 61.2188904358L518.4 61.2188904358"
+               id="path3020" />
+          </g>
+          <g
+             id="line2d36">
+            <g
+               id="g3023">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#m2d700b5b5d738bf2751cd81726959973"
+                 x="72.000000"
+                 y="61.218890"
+                 id="use3025" />
+            </g>
+          </g>
+          <g
+             id="line2d37">
+            <g
+               id="g3028">
+              <use
+                 style="fill: none; stroke: #000000; stroke-width: 0.5; stroke-linejoin: miter; stroke-linecap: butt;  opacity: 1.0"
+                 xlink:href="#mb380ebd9df8a07a3be12f7447ef9bdd8"
+                 x="518.400000"
+                 y="61.218890"
+                 id="use3030" />
+            </g>
+          </g>
+          <g
+             style="fill: #000000; opacity: 1.0"
+             transform="translate(54.828125,65.5860779358)scale(0.12)"
+             id="g3032">
+            <use
+               xlink:href="#c_2322e4f977aa11305e2465866d88750f"
+               id="use3034" />
+            <use
+               xlink:href="#c_95f14088edd5858aea2c3b4aa58e4de2"
+               x="63.623046875"
+               id="use3036" />
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill: none; stroke: #000000; stroke-width: 1.0; stroke-linejoin: miter; stroke-linecap: square;  opacity: 1.0"
+         d="M72.0 388.8L518.4 388.8L518.4 43.2L72.0 43.2L72.0 388.8"
+         id="path3038" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:11.19999980999999956px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans"
+     x="7.4563107"
+     y="48"
+     id="text3047"><tspan
+       sodipodi:role="line"
+       id="tspan3049"
+       x="7.4563107"
+       y="48" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:cmmi10;-inkscape-font-specification:cmmi10"
+     x="533.12622"
+     y="415.2233"
+     id="text3055"><tspan
+       sodipodi:role="line"
+       id="tspan3057"></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:22px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans Bold Oblique"
+     x="-13.18102"
+     y="81.38488"
+     id="text3059"><tspan
+       sodipodi:role="line"
+       id="tspan3061"
+       x="-13.18102"
+       y="81.38488" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono"
+     x="5.272408"
+     y="75.123894"
+     id="text3063"><tspan
+       sodipodi:role="line"
+       id="tspan3065"
+       x="5.272408"
+       y="75.123894">x(m)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:LMMathItalic12;-inkscape-font-specification:LMMathItalic12 Bold Italic"
+     x="481.76627"
+     y="424.75043"
+     id="text3067"><tspan
+       sodipodi:role="line"
+       id="tspan3069"
+       x="481.76627"
+       y="424.75043" /></text>
+  <text
+     xml:space="preserve"
+     style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans Mono;-inkscape-font-specification:Bitstream Vera Sans Mono"
+     x="506.60086"
+     y="429.01071"
+     id="text3071"><tspan
+       sodipodi:role="line"
+       id="tspan3073"
+       x="506.60086"
+       y="429.01071">t(s)</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:LMMathItalic12;-inkscape-font-specification:Sans"
+     x="89.630928"
+     y="296.89456"
+     id="text3079"><tspan
+       sodipodi:role="line"
+       id="tspan3081"
+       x="89.630928"
+       y="296.89456">A</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:LMMathItalic12;-inkscape-font-specification:Sans"
+     x="205.62392"
+     y="375.98068"
+     id="text3083"><tspan
+       sodipodi:role="line"
+       id="tspan3085"
+       x="205.62392"
+       y="375.98068">B</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:LMMathItalic12;-inkscape-font-specification:Sans"
+     x="340.07031"
+     y="225.80846"
+     id="text3087"><tspan
+       sodipodi:role="line"
+       id="tspan3089"
+       x="340.07031"
+       y="225.80846">C</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:22px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:LMMathItalic12;-inkscape-font-specification:Sans"
+     x="386.86292"
+     y="157.17574"
+     id="text3091"><tspan
+       sodipodi:role="line"
+       id="tspan3093"
+       x="386.86292"
+       y="157.17574">D</tspan></text>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 61.514563,353.70874 C 60.893204,356.19417 60.271845,358.67961 61.514563,353.70874 z"
+     id="path3119" />
+</svg>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="438.85712"
+   height="152"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="schema_spheroide.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/guillaume/spim/images/illus_projets/schema_spheroide.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2403"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3756"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="578.12402"
+     inkscape:cy="601.29399"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="924"
+     inkscape:window-height="672"
+     inkscape:window-x="124"
+     inkscape:window-y="42" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-185.33839,-287.6727)">
+    <g
+       id="g3183"
+       transform="translate(76.771594,-3.0304576)">
+      <path
+         style="opacity:1;fill:#00d10d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 284.77033,436.77483 C 258.48892,432.74451 236.60625,414.6206 227.97647,389.73638 C 225.23503,381.83135 224.31757,376.01988 224.31757,366.55982 C 224.31757,354.07674 225.99615,346.691 231.31981,335.75017 C 234.67758,328.84951 237.08617,325.18809 241.82815,319.77594 C 248.26089,312.43407 254.89488,307.42491 264.13625,302.93165 C 275.08406,297.60871 282.46594,295.93148 294.9459,295.93148 C 304.40596,295.93149 310.21743,296.84894 318.12246,299.59039 C 347.67283,309.83838 367.29547,338.75219 365.76142,369.78606 C 364.86606,387.89945 357.84157,403.70787 344.96776,416.58168 C 334.8291,426.72035 323.13121,433.08282 309.08804,436.09664 C 303.033,437.39611 291.00849,437.73147 284.77032,436.77483 L 284.77033,436.77483 z M 308.22527,424.62705 C 331.04268,419.55066 349.48475,400.21952 353.52924,377.13903 C 354.54275,371.35534 354.54274,361.7643 353.52924,355.98061 C 349.91214,335.33904 334.92911,317.6694 315.01444,310.55967 C 299.57112,305.04625 280.97659,306.40585 266.98051,314.0718 C 247.29112,324.85611 235.59944,344.41163 235.59944,366.55982 C 235.59944,391.78143 250.80619,413.59525 274.64325,422.5675 C 284.26658,426.18971 297.5419,427.00387 308.22528,424.62704 L 308.22527,424.62705 z"
+         id="path3241" />
+      <path
+         sodipodi:type="arc"
+         style="opacity:1;fill:#ff1717;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path3345"
+         sodipodi:cx="209.60666"
+         sodipodi:cy="319.49652"
+         sodipodi:rx="34.850262"
+         sodipodi:ry="34.850262"
+         d="M 244.45692,319.49652 A 34.850262,34.850262 0 1 1 174.7564,319.49652 A 34.850262,34.850262 0 1 1 244.45692,319.49652 z"
+         transform="matrix(0.7753623,0,0,0.759855,132.56038,123.85672)" />
+      <path
+         style="opacity:1;fill:#17ccff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 288.0309,427.20873 C 287.6017,427.12464 285.49471,426.77105 283.34871,426.42298 C 270.39546,424.32204 256.56124,416.01592 247.82102,405.09199 C 238.87685,393.91319 234.44583,381.20092 234.44583,366.71965 C 234.44583,350.108 239.84092,336.51721 251.08113,324.81356 C 256.52505,319.14521 260.75644,315.9356 267.20152,312.58594 C 283.71444,304.00376 303.96468,303.57386 320.61383,311.45204 C 327.42214,314.67366 331.44145,317.43488 336.86684,322.61778 C 346.42346,331.74723 352.55841,342.6834 354.87913,354.72649 C 355.99647,360.52482 355.99647,372.70285 354.87913,378.50119 C 352.62179,390.21538 346.63553,401.19798 337.65872,410.0943 C 325.9996,421.64889 311.32358,427.58083 294.79407,427.41988 C 291.50353,427.38784 288.46011,427.29282 288.0309,427.20873 L 288.0309,427.20873 z M 302.85784,391.22384 C 307.41599,389.78224 310.54525,387.89629 313.83112,384.6104 C 318.80807,379.63346 321.32648,373.6855 321.32648,366.90795 C 321.32648,352.63925 309.72332,341.12191 295.3483,341.12191 C 288.08656,341.12191 281.69334,343.76923 276.56127,348.90129 C 271.49216,353.97041 269.14242,359.67194 269.14519,366.89606 C 269.15013,379.74391 278.38173,389.92163 292.19285,392.30579 C 294.35803,392.67955 300.09543,392.0975 302.85784,391.22384 L 302.85784,391.22384 z"
+         id="path3681" />
+    </g>
+    <g
+       id="g3695"
+       transform="translate(0,0.9319891)">
+      <text
+         sodipodi:linespacing="100%"
+         id="text3683"
+         y="311.41528"
+         x="190.41376"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="311.41528"
+           x="190.41376"
+           id="tspan3685"
+           sodipodi:role="line">zone proliférante</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3687"
+         y="366.21606"
+         x="184.85793"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         xml:space="preserve"><tspan
+           style="font-size:12px"
+           y="366.21606"
+           x="184.85793"
+           id="tspan3689"
+           sodipodi:role="line">zone quiescente</tspan></text>
+      <text
+         sodipodi:linespacing="100%"
+         id="text3691"
+         y="421.01688"
+         x="200.01021"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         xml:space="preserve"><tspan
+           y="421.01688"
+           x="200.01021"
+           id="tspan3693"
+           sodipodi:role="line">zone necortique</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 300.01531,308.88991 L 311.12698,308.88991 L 323.24881,316.97113"
+       id="path3703" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 285.87317,363.43815 L 335.37065,363.43815"
+       id="path3705" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 303.04576,416.97623 L 315.16759,416.97623 L 371.73614,365.45845"
+       id="path3707" />
+    <image
+       y="287.6727"
+       x="452.19553"
+       id="image3758"
+       height="152"
+       width="172"
+       sodipodi:absref="/home/guillaume/spim/images/illus_projets/pastedpic_09052009_210953.png"
+       xlink:href="pastedpic_09052009_210953.png" />
+  </g>
+</svg>

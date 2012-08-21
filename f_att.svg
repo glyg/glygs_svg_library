@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with matplotlib (http://matplotlib.sourceforge.net/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="637.79529"
+   height="496.06299"
+   viewBox="0 0 585 427"
+   version="1.0"
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="f_att.svg"
+   sodipodi:docbase="/home/guillaume/article_kineto/illus"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata66477">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs66475" />
+  <sodipodi:namedview
+     inkscape:window-height="800"
+     inkscape:window-width="1047"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.72532265"
+     inkscape:cx="418.01871"
+     inkscape:cy="227.373"
+     inkscape:window-x="385"
+     inkscape:window-y="69"
+     inkscape:current-layer="figure1"
+     width="18cm"
+     height="14cm"
+     units="cm"
+     showborder="true"
+     inkscape:showpageshadow="false" />
+  <g
+     id="figure1">
+    <g
+       id="g66624"
+       transform="translate(14.675556,-34.854444)">
+      <g
+         transform="translate(20,0)"
+         id="axes1">
+        <polygon
+           id="polygon66344"
+           points="73.125,384.75 73.125,42.75 526.5,42.75 526.5,384.75 73.125,384.75 "
+           style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter" />
+        <defs
+           id="defs66346">
+          <clipPath
+             id="-108513498">
+            <rect
+               id="rect66349"
+               style="fill:none;stroke:#808080"
+               height="342"
+               width="453.375"
+               y="42.75"
+               x="73.125" />
+          </clipPath>
+        </defs>
+        <path
+           id="path66351"
+           d="M 73.125,80.75 L 81.799267,94.393542 L 90.473533,107.42476 L 99.1478,119.87114 L 107.82207,131.75892 L 116.49633,143.11318 L 125.1706,153.95786 L 133.84487,164.31582 L 142.51913,174.20892 L 151.1934,183.65802 L 159.86767,192.68305 L 168.54193,201.30302 L 177.2162,209.53614 L 185.89047,217.39975 L 194.56473,224.91044 L 203.239,232.08405 L 211.91326,238.93571 L 220.58753,245.47987 L 229.2618,251.73032 L 237.93607,257.70025 L 246.61033,263.40225 L 255.2846,268.84835 L 263.95887,274.05002 L 272.63313,279.01825 L 281.3074,283.7635 L 289.98167,288.29578 L 298.65593,292.62465 L 307.3302,296.75924 L 316.00446,300.70827 L 324.67873,304.48007 L 333.353,308.08259 L 342.02726,311.52343 L 350.70153,314.80984 L 359.3758,317.94876 L 368.05006,320.94681 L 376.72433,323.8103 L 385.3986,326.54528 L 394.07286,329.15751 L 402.74713,331.65251 L 411.4214,334.03553 L 420.09566,336.31159 L 428.76993,338.48551 L 437.4442,340.56187 L 446.11846,342.54503 L 454.79273,344.43919 L 463.467,346.24835 L 472.14126,347.9763 L 480.81553,349.62671 L 489.4898,351.20305 L 498.16406,352.70864"
+           clip-path="url(#-108513498)"
+           style="opacity:1;fill:none;stroke:#0000ff;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+        <g
+           id="matplotlib.axis1">
+          <g
+             id="xtick1">
+            <text
+               id="text66355"
+               y="409.75"
+               x="64.125"
+               style="font-size:20px;fill:#000000;font-family:cmr10">0.0</text>
+          </g>
+          <g
+             id="xtick2">
+            <path
+               id="path66358"
+               d="M 129.79688,384.75 L 129.79688,380.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66360"
+               d="M 129.79688,46.75 L 129.79688,42.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="xtick3">
+            <path
+               id="path66365"
+               d="M 186.46875,384.75 L 186.46875,380.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66367"
+               d="M 186.46875,46.75 L 186.46875,42.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <text
+               id="text66369"
+               y="409.75"
+               x="177.17969"
+               style="font-size:20px;fill:#000000;font-family:cmr10">0.4</text>
+          </g>
+          <g
+             id="xtick4">
+            <path
+               id="path66372"
+               d="M 243.14062,384.75 L 243.14062,380.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66374"
+               d="M 243.14062,46.75 L 243.14062,42.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="xtick5">
+            <path
+               id="path66379"
+               d="M 299.8125,384.75 L 299.8125,380.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66381"
+               d="M 299.8125,46.75 L 299.8125,42.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <text
+               id="text66383"
+               y="409.75"
+               x="290.8125"
+               style="font-size:20px;fill:#000000;font-family:cmr10">0.8</text>
+          </g>
+          <g
+             id="xtick6">
+            <path
+               id="path66386"
+               d="M 356.48438,384.75 L 356.48438,380.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66388"
+               d="M 356.48438,46.75 L 356.48438,42.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="xtick7">
+            <path
+               id="path66393"
+               d="M 413.15625,384.75 L 413.15625,380.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66395"
+               d="M 413.15625,46.75 L 413.15625,42.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <text
+               id="text66397"
+               y="409.78125"
+               x="404.35156"
+               style="font-size:20px;fill:#000000;font-family:cmr10">1.2</text>
+          </g>
+          <g
+             id="xtick8">
+            <path
+               id="path66400"
+               d="M 469.82812,384.75 L 469.82812,380.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66402"
+               d="M 469.82812,46.75 L 469.82812,42.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="xtick9">
+            <text
+               id="text66407"
+               y="409.78125"
+               x="517.69531"
+               style="font-size:20px;fill:#000000;font-family:cmr10">1.6</text>
+          </g>
+        </g>
+        <g
+           id="matplotlib.axis2">
+          <g
+             id="ytick1" />
+          <g
+             id="ytick2">
+            <path
+               id="path66414"
+               d="M 73.125,346.75 L 77.125,346.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66416"
+               d="M 522.5,346.75 L 526.5,346.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="ytick3">
+            <path
+               id="path66421"
+               d="M 73.125,308.75 L 77.125,308.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66423"
+               d="M 522.5,308.75 L 526.5,308.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="ytick4">
+            <path
+               id="path66428"
+               d="M 73.125,270.75 L 77.125,270.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66430"
+               d="M 522.5,270.75 L 526.5,270.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="ytick5">
+            <path
+               id="path66435"
+               d="M 73.125,232.75 L 77.125,232.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66437"
+               d="M 522.5,232.75 L 526.5,232.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="ytick6">
+            <path
+               id="path66442"
+               d="M 73.125,194.75 L 77.125,194.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66444"
+               d="M 522.5,194.75 L 526.5,194.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="ytick7">
+            <path
+               id="path66449"
+               d="M 73.125,156.75 L 77.125,156.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66451"
+               d="M 522.5,156.75 L 526.5,156.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="ytick8">
+            <path
+               id="path66456"
+               d="M 73.125,118.75 L 77.125,118.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66458"
+               d="M 522.5,118.75 L 526.5,118.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="ytick9">
+            <path
+               id="path66463"
+               d="M 73.125,80.75 L 77.125,80.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+            <path
+               id="path66465"
+               d="M 522.5,80.75 L 526.5,80.75"
+               style="opacity:1;fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter" />
+          </g>
+          <g
+             id="ytick10" />
+        </g>
+        <path
+           id="path66472"
+           d="M 73.125,384.75 L 526.5,384.75 L 526.5,42.75 L 73.125,42.75 L 73.125,384.75"
+           style="opacity:1;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+      <g
+         transform="translate(-20.658181,34.121005)"
+         id="g66574">
+        <text
+           style="font-size:16px;fill:#000000;font-family:cmr10"
+           x="35.125"
+           y="48.25"
+           id="text66470">
+          <tspan
+             style="font-size:20px"
+             id="tspan66566">4.0 10</tspan>
+        </text>
+        <text
+           xml:space="preserve"
+           style="font-size:16px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+           x="93.402969"
+           y="32.708904"
+           id="text66562"><tspan
+             sodipodi:role="line"
+             id="tspan66564"
+             x="93.402969"
+             y="32.708904"
+             style="font-size:16px">-2</tspan></text>
+      </g>
+      <g
+         transform="translate(21.481116,112.29562)"
+         id="g66580">
+        <text
+           style="font-size:16px;fill:#000000;font-family:cmr10"
+           x="35.125"
+           y="48.25"
+           id="text66582">
+          <tspan
+             style="font-size:20px"
+             id="tspan66584">3.0</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(21.481116,190.47022)"
+         id="g66590">
+        <text
+           style="font-size:16px;fill:#000000;font-family:cmr10"
+           x="35.125"
+           y="48.25"
+           id="text66592">
+          <tspan
+             style="font-size:20px"
+             id="tspan66594">2.0</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(21.481116,268.64483)"
+         id="g66600">
+        <text
+           style="font-size:16px;fill:#000000;font-family:cmr10"
+           x="35.125"
+           y="48.25"
+           id="text66602">
+          <tspan
+             style="font-size:20px"
+             id="tspan66604">1.0</tspan>
+        </text>
+      </g>
+      <text
+         style="font-size:16px;fill:#000000;font-family:cmr10"
+         x="75.70768"
+         y="388.78326"
+         id="text66620">
+        <tspan
+           style="font-size:20px"
+           id="tspan66622">0</tspan>
+      </text>
+    </g>
+  </g>
+</svg>

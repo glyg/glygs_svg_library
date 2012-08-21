@@ -1,0 +1,2384 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg14496"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="figure S1 - copie.svg"
+   sodipodi:version="0.32"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs14498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective14504" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4896" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path3394"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3397"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <clipPath
+       id="clipPath15454"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15456"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15442"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15444"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15426"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15428"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15414"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15416"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15398"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15400"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15386"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15388"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15370"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15372"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15358"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15360"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15342"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15344"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15330"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15332"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15314"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15316"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15302"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15304"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15286"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15288"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15274"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15276"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15258"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15260"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15246"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15248"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15230"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15232"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15218"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15220"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15202"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15204"
+         d="m -4.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15190"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15192"
+         d="m -0.25,-0.25 4.5,0 0,0.5 -4.5,0 0,-0.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15154"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15156"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15142"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15144"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15118"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15120"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15106"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15108"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15082"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15084"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15070"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15072"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15046"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15048"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15034"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15036"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath15010"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15012"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14998"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path15000"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14974"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14976"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14962"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14964"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14938"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14940"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14926"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14928"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14902"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14904"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14890"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14892"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14866"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14868"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14854"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14856"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14830"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14832"
+         d="m -0.25,-4.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14818"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14820"
+         d="m -0.25,-0.25 0.5,0 0,4.5 -0.5,0 0,-4.5 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14806"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14808"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14796"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14798"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14786"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14788"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14776"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14778"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14766"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14768"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14756"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14758"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14746"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14748"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14736"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14738"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14726"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14728"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14716"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14718"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14706"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14708"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14696"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14698"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14686"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14688"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14676"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14678"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14666"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14668"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath14656"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path14658"
+         d="m 57.96,33.48 359.352,0 0,267.84 -359.352,0 0,-267.84 z" />
+    </clipPath>
+    <inkscape:perspective
+       id="perspective14644"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective5950" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective5948" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5944"
+       style="overflow:visible">
+      <path
+         id="path5946"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5940"
+       style="overflow:visible">
+      <path
+         id="path5942"
+         d="M 0,0 L 5,-5 L -12.5,0 L 5,5 L 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6033088"
+     inkscape:cx="290.47338"
+     inkscape:cy="749.75124"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1592"
+     inkscape:window-height="897"
+     inkscape:window-x="0"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata14501">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g14652"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14654"
+         clip-path="url(#clipPath14656)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 58.470961,33.48 L 78.110728,33.48 L 78.110728,70.68 L 58.470961,70.68 L 58.470961,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14660" />
+      </g>
+    </g>
+    <g
+       id="g14662"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14664"
+         clip-path="url(#clipPath14666)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 78.110728,33.48 L 97.750495,33.48 L 97.750495,296.856 L 78.110728,296.856 L 78.110728,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14670" />
+      </g>
+    </g>
+    <g
+       id="g14672"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14674"
+         clip-path="url(#clipPath14676)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 97.750495,33.48 L 117.39026,33.48 L 117.39026,215.016 L 97.750495,215.016 L 97.750495,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14680" />
+      </g>
+    </g>
+    <g
+       id="g14682"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14684"
+         clip-path="url(#clipPath14686)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 117.39026,33.48 L 137.03003,33.48 L 137.03003,164.424 L 117.39026,164.424 L 117.39026,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14690" />
+      </g>
+    </g>
+    <g
+       id="g14692"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14694"
+         clip-path="url(#clipPath14696)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 137.03003,33.48 L 156.6698,33.48 L 156.6698,171.864 L 137.03003,171.864 L 137.03003,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14700" />
+      </g>
+    </g>
+    <g
+       id="g14702"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14704"
+         clip-path="url(#clipPath14706)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 156.6698,33.48 L 176.30956,33.48 L 176.30956,118.296 L 156.6698,118.296 L 156.6698,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14710" />
+      </g>
+    </g>
+    <g
+       id="g14712"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14714"
+         clip-path="url(#clipPath14716)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 176.30956,33.48 L 195.94933,33.48 L 195.94933,66.216 L 176.30956,66.216 L 176.30956,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14720" />
+      </g>
+    </g>
+    <g
+       id="g14722"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14724"
+         clip-path="url(#clipPath14726)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 195.94933,33.48 L 215.5891,33.48 L 215.5891,40.92 L 195.94933,40.92 L 195.94933,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14730" />
+      </g>
+    </g>
+    <g
+       id="g14732"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14734"
+         clip-path="url(#clipPath14736)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 215.5891,33.48 L 235.22887,33.48 L 235.22887,36.456 L 215.5891,36.456 L 215.5891,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14740" />
+      </g>
+    </g>
+    <g
+       id="g14742"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14744"
+         clip-path="url(#clipPath14746)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 235.22887,33.48 L 254.86863,33.48 L 254.86863,37.944 L 235.22887,37.944 L 235.22887,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14750" />
+      </g>
+    </g>
+    <g
+       id="g14752"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14754"
+         clip-path="url(#clipPath14756)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 254.86863,33.48 L 274.5084,33.48 L 274.5084,37.944 L 254.86863,37.944 L 254.86863,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14760" />
+      </g>
+    </g>
+    <g
+       id="g14762"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14764"
+         clip-path="url(#clipPath14766)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 274.5084,33.48 L 294.14817,33.48 L 294.14817,39.432 L 274.5084,39.432 L 274.5084,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14770" />
+      </g>
+    </g>
+    <g
+       id="g14772"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14774"
+         clip-path="url(#clipPath14776)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 294.14817,33.48 L 313.78793,33.48 L 313.78793,39.432 L 294.14817,39.432 L 294.14817,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14780" />
+      </g>
+    </g>
+    <g
+       id="g14782"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14784"
+         clip-path="url(#clipPath14786)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 313.78793,33.48 L 333.4277,33.48 L 333.4277,33.48 L 313.78793,33.48 L 313.78793,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14790" />
+      </g>
+    </g>
+    <g
+       id="g14792"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14794"
+         clip-path="url(#clipPath14796)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 333.4277,33.48 L 353.06747,33.48 L 353.06747,37.944 L 333.4277,37.944 L 333.4277,33.48"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14800" />
+      </g>
+    </g>
+    <g
+       id="g14802"
+       transform="matrix(1.25,0,0,-1.25,74.508942,616.55562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14804"
+         clip-path="url(#clipPath14806)"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <path
+           d="M 57.96,33.48 L 61.186505,58.552415 L 64.41301,83.282766 L 67.639515,107.33675 L 70.86602,130.39536 L 74.092525,152.16191 L 77.31903,172.36836 L 80.545535,190.78079 L 83.77204,207.2038 L 86.998545,221.48374 L 90.225051,233.51078 L 93.451556,243.21966 L 96.678061,250.58927 L 99.904566,255.64105 L 103.13107,258.43634 L 106.35758,259.07283 L 109.58408,257.68022 L 112.81059,254.41534 L 116.03709,249.45685 L 119.2636,242.99972 L 122.4901,235.24977 L 125.71661,226.41828 L 128.94311,216.71692 L 132.16962,206.35314 L 135.39612,195.52607 L 138.62263,184.42303 L 141.84913,173.21667 L 145.07564,162.06283 L 148.30214,151.09903 L 151.52865,140.44363 L 154.75515,130.19551 L 157.98166,120.43439 L 161.20816,111.22151 L 164.43467,102.60072 L 167.66117,94.59992 L 170.88768,87.23262 L 174.11418,80.499718 L 177.34069,74.391308 L 180.56719,68.888502 L 183.7937,63.965202 L 187.0202,59.589777 L 190.24671,55.726615 L 193.47321,52.337515 L 196.69972,49.382922 L 199.92622,46.822974 L 203.15273,44.618383 L 206.37923,42.731142 L 209.60574,41.12507 L 212.83224,39.766213 L 216.05875,38.623117 L 219.28525,37.666981 L 222.51176,36.87172 L 225.73826,36.213948 L 228.96477,35.672896 L 232.19127,35.230287 L 235.41778,34.870176 L 238.64428,34.578766 L 241.87079,34.344211 L 245.09729,34.156424 L 248.3238,34.006875 L 251.5503,33.888404 L 254.77681,33.795044 L 258.00331,33.721854 L 261.22982,33.664774 L 264.45632,33.620484 L 267.68283,33.586304 L 270.90933,33.560054 L 274.13584,33.539994 L 277.36234,33.524744 L 280.58885,33.513214 L 283.81535,33.504514 L 287.04186,33.498014 L 290.26836,33.493214 L 293.49487,33.489614 L 296.72137,33.487014 L 299.94788,33.485114 L 303.17438,33.483714 L 306.40089,33.482714 L 309.62739,33.481969 L 312.8539,33.481433 L 316.0804,33.481049 L 319.30691,33.480776 L 322.53341,33.480582 L 325.75992,33.480445 L 328.98642,33.480349 L 332.21293,33.480282 L 335.43943,33.480235 L 338.66594,33.480203 L 341.89244,33.480181 L 345.11895,33.480166 L 348.34545,33.480155 L 351.57196,33.480148 L 354.79846,33.480143 L 358.02497,33.48014 L 361.25147,33.480138 L 364.47798,33.480137 L 367.70448,33.480136 L 370.93099,33.480135 L 374.15749,33.480135 L 377.384,33.480134"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+           id="path14810" />
+      </g>
+    </g>
+    <g
+       id="g14812"
+       transform="matrix(1.25,0,0,-1.25,146.95894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14814"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14816"
+           clip-path="url(#clipPath14818)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14822" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14824"
+       transform="matrix(1.25,0,0,-1.25,146.95894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14826"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14828"
+           clip-path="url(#clipPath14830)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14834" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text14836"
+       x="137.61041"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="137.61041"
+         y="589.33618"
+         id="tspan14838">0</tspan>
+    </text>
+    <text
+       id="text14840"
+       x="144.92665"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="144.92665"
+         y="589.33618"
+         id="tspan14842">.</tspan>
+    </text>
+    <text
+       id="text14844"
+       x="148.99123"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="148.99123"
+         y="589.33618"
+         id="tspan14846">0</tspan>
+    </text>
+    <g
+       id="g14848"
+       transform="matrix(1.25,0,0,-1.25,196.86894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14850"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14852"
+           clip-path="url(#clipPath14854)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14858" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14860"
+       transform="matrix(1.25,0,0,-1.25,196.86894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14862"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14864"
+           clip-path="url(#clipPath14866)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14870" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text14872"
+       x="187.52042"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="187.52042"
+         y="589.33618"
+         id="tspan14874">0</tspan>
+    </text>
+    <text
+       id="text14876"
+       x="194.83665"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="194.83665"
+         y="589.33618"
+         id="tspan14878">.</tspan>
+    </text>
+    <text
+       id="text14880"
+       x="198.90123"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="198.90123"
+         y="589.33618"
+         id="tspan14882">1</tspan>
+    </text>
+    <g
+       id="g14884"
+       transform="matrix(1.25,0,0,-1.25,246.77894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14886"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14888"
+           clip-path="url(#clipPath14890)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14894" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14896"
+       transform="matrix(1.25,0,0,-1.25,246.77894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14898"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14900"
+           clip-path="url(#clipPath14902)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14906" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text14908"
+       x="237.43042"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="237.43042"
+         y="589.33618"
+         id="tspan14910">0</tspan>
+    </text>
+    <text
+       id="text14912"
+       x="244.74666"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="244.74666"
+         y="589.33618"
+         id="tspan14914">.</tspan>
+    </text>
+    <text
+       id="text14916"
+       x="248.81123"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="248.81123"
+         y="589.33618"
+         id="tspan14918">2</tspan>
+    </text>
+    <g
+       id="g14920"
+       transform="matrix(1.25,0,0,-1.25,296.68894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14922"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14924"
+           clip-path="url(#clipPath14926)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14930" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14932"
+       transform="matrix(1.25,0,0,-1.25,296.68894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14934"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14936"
+           clip-path="url(#clipPath14938)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14942" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text14944"
+       x="287.34042"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="287.34042"
+         y="589.33618"
+         id="tspan14946">0</tspan>
+    </text>
+    <text
+       id="text14948"
+       x="294.65668"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="294.65668"
+         y="589.33618"
+         id="tspan14950">.</tspan>
+    </text>
+    <text
+       id="text14952"
+       x="298.72122"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="298.72122"
+         y="589.33618"
+         id="tspan14954">3</tspan>
+    </text>
+    <g
+       id="g14956"
+       transform="matrix(1.25,0,0,-1.25,346.59894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14958"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14960"
+           clip-path="url(#clipPath14962)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14966" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g14968"
+       transform="matrix(1.25,0,0,-1.25,346.59894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14970"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14972"
+           clip-path="url(#clipPath14974)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path14978" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text14980"
+       x="337.25043"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="337.25043"
+         y="589.33618"
+         id="tspan14982">0</tspan>
+    </text>
+    <text
+       id="text14984"
+       x="344.56668"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="344.56668"
+         y="589.33618"
+         id="tspan14986">.</tspan>
+    </text>
+    <text
+       id="text14988"
+       x="348.63126"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="348.63126"
+         y="589.33618"
+         id="tspan14990">4</tspan>
+    </text>
+    <g
+       id="g14992"
+       transform="matrix(1.25,0,0,-1.25,396.50894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g14994"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g14996"
+           clip-path="url(#clipPath14998)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15002" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15004"
+       transform="matrix(1.25,0,0,-1.25,396.50894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15006"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15008"
+           clip-path="url(#clipPath15010)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15014" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15016"
+       x="387.16043"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="387.16043"
+         y="589.33618"
+         id="tspan15018">0</tspan>
+    </text>
+    <text
+       id="text15020"
+       x="394.47668"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="394.47668"
+         y="589.33618"
+         id="tspan15022">.</tspan>
+    </text>
+    <text
+       id="text15024"
+       x="398.54123"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="398.54123"
+         y="589.33618"
+         id="tspan15026">5</tspan>
+    </text>
+    <g
+       id="g15028"
+       transform="matrix(1.25,0,0,-1.25,446.41894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15030"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15032"
+           clip-path="url(#clipPath15034)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15038" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15040"
+       transform="matrix(1.25,0,0,-1.25,446.41894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15042"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15044"
+           clip-path="url(#clipPath15046)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15050" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15052"
+       x="437.07043"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="437.07043"
+         y="589.33618"
+         id="tspan15054">0</tspan>
+    </text>
+    <text
+       id="text15056"
+       x="444.38666"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="444.38666"
+         y="589.33618"
+         id="tspan15058">.</tspan>
+    </text>
+    <text
+       id="text15060"
+       x="448.45123"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="448.45123"
+         y="589.33618"
+         id="tspan15062">6</tspan>
+    </text>
+    <g
+       id="g15064"
+       transform="matrix(1.25,0,0,-1.25,496.32894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15066"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15068"
+           clip-path="url(#clipPath15070)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15074" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15076"
+       transform="matrix(1.25,0,0,-1.25,496.32894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15078"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15080"
+           clip-path="url(#clipPath15082)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15086" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15088"
+       x="486.98044"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="486.98044"
+         y="589.33618"
+         id="tspan15090">0</tspan>
+    </text>
+    <text
+       id="text15092"
+       x="494.29666"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="494.29666"
+         y="589.33618"
+         id="tspan15094">.</tspan>
+    </text>
+    <text
+       id="text15096"
+       x="498.36124"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="498.36124"
+         y="589.33618"
+         id="tspan15098">7</tspan>
+    </text>
+    <g
+       id="g15100"
+       transform="matrix(1.25,0,0,-1.25,546.23894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15102"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15104"
+           clip-path="url(#clipPath15106)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15110" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15112"
+       transform="matrix(1.25,0,0,-1.25,546.23894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15114"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15116"
+           clip-path="url(#clipPath15118)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,-4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15122" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15124"
+       x="536.89044"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="536.89044"
+         y="589.33618"
+         id="tspan15126">0</tspan>
+    </text>
+    <text
+       id="text15128"
+       x="544.20667"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="544.20667"
+         y="589.33618"
+         id="tspan15130">.</tspan>
+    </text>
+    <text
+       id="text15132"
+       x="548.27124"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="548.27124"
+         y="589.33618"
+         id="tspan15134">8</tspan>
+    </text>
+    <g
+       id="g15136"
+       transform="matrix(1.25,0,0,-1.25,596.14894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15138"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15140"
+           clip-path="url(#clipPath15142)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 0,4"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15146" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15160"
+       x="586.80042"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="586.80042"
+         y="589.33618"
+         id="tspan15162">0</tspan>
+    </text>
+    <text
+       id="text15164"
+       x="594.11664"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="594.11664"
+         y="589.33618"
+         id="tspan15166">.</tspan>
+    </text>
+    <text
+       id="text15168"
+       x="598.18121"
+       y="589.33618"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="598.18121"
+         y="589.33618"
+         id="tspan15170">9</tspan>
+    </text>
+    <text
+       id="text15172"
+       x="258.97134"
+       y="613.32721"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="258.97134 269.74594 278.03983 286.33374 298.78192 311.23007 322.00467 330.29855 337.77054 346.06445 358.5126 369.2872 372.58981 380.0618 384.20126 392.49518 400.78906 408.26105 420.70923"
+         y="613.32721"
+         sodipodi:role="line"
+         id="tspan15174">Cen2–Ndc80Distance(</tspan>
+    </text>
+    <text
+       id="text15176"
+       x="427.90829"
+       y="613.32721"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="427.90829"
+         y="613.32721"
+         id="tspan15178">µ</tspan>
+    </text>
+    <text
+       id="text15180"
+       x="436.71201"
+       y="613.32721"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="436.71201 449.14539"
+         y="613.32721"
+         sodipodi:role="line"
+         id="tspan15182">m)</tspan>
+    </text>
+    <g
+       id="g15184"
+       transform="matrix(1.25,0,0,-1.25,146.95894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15186"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15188"
+           clip-path="url(#clipPath15190)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15194" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15196"
+       transform="matrix(1.25,0,0,-1.25,596.14894,574.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15198"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15200"
+           clip-path="url(#clipPath15202)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15206" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15208"
+       x="134.6427"
+       y="579.52087"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="134.6427"
+         y="579.52087"
+         id="tspan15210">0</tspan>
+    </text>
+    <g
+       id="g15212"
+       transform="matrix(1.25,0,0,-1.25,146.95894,537.50562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15214"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15216"
+           clip-path="url(#clipPath15218)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15222" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15224"
+       transform="matrix(1.25,0,0,-1.25,596.14894,537.50562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15226"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15228"
+           clip-path="url(#clipPath15230)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15234" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15236"
+       x="127.32646"
+       y="542.32086"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="127.32646 134.63406"
+         y="542.32086"
+         sodipodi:role="line"
+         id="tspan15238">20</tspan>
+    </text>
+    <g
+       id="g15240"
+       transform="matrix(1.25,0,0,-1.25,146.95894,500.30562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15242"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15244"
+           clip-path="url(#clipPath15246)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15250" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15252"
+       transform="matrix(1.25,0,0,-1.25,596.14894,500.30562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15254"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15256"
+           clip-path="url(#clipPath15258)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15262" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15264"
+       x="127.32646"
+       y="505.12091"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="127.32646 134.63406"
+         y="505.12091"
+         sodipodi:role="line"
+         id="tspan15266">40</tspan>
+    </text>
+    <g
+       id="g15268"
+       transform="matrix(1.25,0,0,-1.25,146.95894,463.10562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15270"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15272"
+           clip-path="url(#clipPath15274)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15278" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15280"
+       transform="matrix(1.25,0,0,-1.25,596.14894,463.10562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15282"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15284"
+           clip-path="url(#clipPath15286)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15290" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15292"
+       x="127.32646"
+       y="467.92093"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="127.32646 134.63406"
+         y="467.92093"
+         sodipodi:role="line"
+         id="tspan15294">60</tspan>
+    </text>
+    <g
+       id="g15296"
+       transform="matrix(1.25,0,0,-1.25,146.95894,425.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15298"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15300"
+           clip-path="url(#clipPath15302)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15306" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15308"
+       transform="matrix(1.25,0,0,-1.25,596.14894,425.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15310"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15312"
+           clip-path="url(#clipPath15314)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15318" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15320"
+       x="127.32646"
+       y="430.72092"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="127.32646 134.63406"
+         y="430.72092"
+         sodipodi:role="line"
+         id="tspan15322">80</tspan>
+    </text>
+    <g
+       id="g15324"
+       transform="matrix(1.25,0,0,-1.25,146.95894,388.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15326"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15328"
+           clip-path="url(#clipPath15330)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15334" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15336"
+       transform="matrix(1.25,0,0,-1.25,596.14894,388.70562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15338"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15340"
+           clip-path="url(#clipPath15342)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15346" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15348"
+       x="120.01023"
+       y="393.5209"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="120.01023 127.31783 134.62543"
+         y="393.5209"
+         sodipodi:role="line"
+         id="tspan15350">100</tspan>
+    </text>
+    <g
+       id="g15352"
+       transform="matrix(1.25,0,0,-1.25,146.95894,351.50562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15354"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15356"
+           clip-path="url(#clipPath15358)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15362" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15364"
+       transform="matrix(1.25,0,0,-1.25,596.14894,351.50562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15366"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15368"
+           clip-path="url(#clipPath15370)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15374" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15376"
+       x="120.01023"
+       y="356.32089"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="120.01023 127.31783 134.62543"
+         y="356.32089"
+         sodipodi:role="line"
+         id="tspan15378">120</tspan>
+    </text>
+    <g
+       id="g15380"
+       transform="matrix(1.25,0,0,-1.25,146.95894,314.30562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15382"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15384"
+           clip-path="url(#clipPath15386)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15390" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15392"
+       transform="matrix(1.25,0,0,-1.25,596.14894,314.30562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15394"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15396"
+           clip-path="url(#clipPath15398)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15402" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15404"
+       x="120.01023"
+       y="319.12091"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="120.01023 127.31783 134.62543"
+         y="319.12091"
+         sodipodi:role="line"
+         id="tspan15406">140</tspan>
+    </text>
+    <g
+       id="g15408"
+       transform="matrix(1.25,0,0,-1.25,146.95894,277.10562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15410"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15412"
+           clip-path="url(#clipPath15414)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15418" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g15420"
+       transform="matrix(1.25,0,0,-1.25,596.14894,277.10562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15422"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15424"
+           clip-path="url(#clipPath15426)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L -4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15430" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15432"
+       x="120.01023"
+       y="281.9209"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="120.01023 127.31783 134.62543"
+         y="281.9209"
+         sodipodi:role="line"
+         id="tspan15434">160</tspan>
+    </text>
+    <g
+       id="g15436"
+       transform="matrix(1.25,0,0,-1.25,146.95894,239.90562)"
+       style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+      <g
+         id="g15438"
+         style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+        <g
+           id="g15440"
+           clip-path="url(#clipPath15442)"
+           style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial">
+          <path
+             d="M 0,0 L 4,0"
+             style="font-size:9.59999999999999964;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+             id="path15446" />
+        </g>
+      </g>
+    </g>
+    <text
+       id="text15460"
+       x="120.01023"
+       y="244.7209"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="120.01023 127.31783 134.62543"
+         y="244.7209"
+         sodipodi:role="line"
+         id="tspan15462">180</tspan>
+    </text>
+    <text
+       transform="matrix(0,-1,1,0,0,0)"
+       id="text15464"
+       x="-440.11462"
+       y="113.49133"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="-440.11462 -430.16196 -426.85934 -414.41116 -403.63657 -395.34268 -387.04877 -378.75488"
+         y="113.49133"
+         sodipodi:role="line"
+         id="tspan15466">BinCount</tspan>
+    </text>
+    <path
+       d="M 146.95894,574.70562 L 596.14894,574.70562 L 596.14894,239.90562 L 146.95894,239.90562 L 146.95894,574.70562"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1.25000000000000000;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       id="path15468" />
+    <text
+       id="text15474"
+       x="334.53052"
+       y="269.71933"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="334.53052 341.52725 353.99139"
+         y="269.71933"
+         sodipodi:role="line"
+         id="tspan15476">rN.</tspan>
+    </text>
+    <text
+       id="text15478"
+       x="358.06104"
+       y="269.71933"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="358.06104"
+         y="269.71933"
+         id="tspan15480">∆</tspan>
+    </text>
+    <text
+       id="text15482"
+       x="370.25473"
+       y="269.71933"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="370.25473"
+         y="269.71933"
+         id="tspan15484">r</tspan>
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="348.50873"
+         y="290.07986"
+         id="tspan15486">σ</tspan>
+    </text>
+    <text
+       id="text15488"
+       x="357.36172"
+       y="285.76273"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="357.36172"
+         y="285.76273"
+         id="tspan15490">2</tspan>
+    </text>
+    <text
+       id="text15492"
+       x="381.24036"
+       y="279.82904"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="381.24036 387.74097 395.45206"
+         y="279.82904"
+         sodipodi:role="line"
+         id="tspan15494">exp</tspan>
+    </text>
+    <text
+       id="text15496"
+       x="349.63434"
+       y="86.100113"
+       style="font-size:12;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-variant:normal;font-weight:normal;writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%"
+         x="349.63434"
+         y="86.100113"
+         id="tspan15498" />
+    </text>
+    <text
+       id="text15500"
+       x="417.08661"
+       y="279.82904"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="417.08661"
+         y="279.82904"
+         id="tspan15502">−</tspan>
+    </text>
+    <text
+       id="text15504"
+       x="434.78845"
+       y="269.71933"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="434.78845"
+         y="269.71933"
+         id="tspan15506">r</tspan>
+    </text>
+    <text
+       id="text15508"
+       x="441.78903"
+       y="264.29626"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="441.78903"
+         y="264.29626"
+         id="tspan15510">2</tspan>
+    </text>
+    <text
+       id="text15512"
+       x="430.20413"
+       y="290.07986"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="430.20413"
+         y="290.07986"
+         id="tspan15514">2</tspan>
+    </text>
+    <text
+       id="text15516"
+       x="437.52036"
+       y="290.07986"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="437.52036"
+         y="290.07986"
+         id="tspan15518">σ</tspan>
+    </text>
+    <text
+       id="text15520"
+       x="446.37335"
+       y="285.76273"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="446.37335"
+         y="285.76273"
+         id="tspan15522">2</tspan>
+    </text>
+    <text
+       id="text15524"
+       x="397.33133"
+       y="86.100113"
+       style="font-size:12;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-variant:normal;font-weight:normal;writing-mode:lr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial;font-style:normal;font-stretch:normal;text-anchor:start;text-align:start;line-height:125%"
+         x="397.33133"
+         y="86.100113"
+         id="tspan15526" />
+    </text>
+    <text
+       id="text15528"
+       x="467.27423"
+       y="279.82904"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="467.27423 476.3053"
+         y="279.82904"
+         sodipodi:role="line"
+         id="tspan15530">,σ</tspan>
+    </text>
+    <text
+       id="text15532"
+       x="489.3241"
+       y="279.82904"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="489.3241 504.84747"
+         y="279.82904"
+         sodipodi:role="line"
+         id="tspan15534">=0</tspan>
+    </text>
+    <text
+       id="text15536"
+       x="512.17218"
+       y="279.82904"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="512.17218"
+         y="279.82904"
+         id="tspan15538">.</tspan>
+    </text>
+    <text
+       id="text15540"
+       x="516.23676"
+       y="279.82904"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial;-inkscape-font-specification:Arial"
+       sodipodi:linespacing="125%">
+      <tspan
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+         x="540.65015 548.76471"
+         sodipodi:role="line"
+         id="tspan15542">nm</tspan>
+    </text>
+    <path
+       d="M 334.53049,276.3919 L 377.25533,276.3919 L 377.25533,275.79416 L 334.53049,275.79416 L 334.53049,276.3919 z"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="path15544" />
+    <path
+       d="M 430.20411,276.3919 L 452.28874,276.3919 L 452.28874,275.79416 L 430.20411,275.79416 L 430.20411,276.3919 z"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       id="path15546" />
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="62.857143"
+       y="1018.0765"
+       id="text16000"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="62.857143"
+         y="1018.0765"
+         id="tspan16004">Gay <tspan
+   style="-inkscape-font-specification:Bitstream Vera Sans Oblique;font-family:Bitstream Vera Sans;font-weight:normal;font-style:oblique;font-stretch:normal;font-variant:normal;font-size:12px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+   id="tspan15228">et al.</tspan> Supplemental figure 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="373.11111"
+       y="1013.1105"
+       id="text3197"><tspan
+         sodipodi:role="line"
+         id="tspan3199"
+         x="373.11111"
+         y="1013.1105" /></text>
+    <g
+       transform="matrix(0.2822775,0,0,0.2822775,435.34042,362.12776)"
+       id="g3368"
+       style="font-size:42.51135850000000005">
+      <path
+         style="fill:#00faf8;fill-opacity:0.73311892999999984;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-size:42.51135850000000005"
+         d="M 125.25892,348.28587 C 123.02984,408.08666 165.26564,495.23905 118.55252,539.1544 C 56.034846,573.22109 41.593269,506.40932 68.267268,460.22057 C 94.941267,414.03181 118.11287,373.94338 87.069339,324.17989 C 56.292739,274.84429 48.429472,270.51279 45.730634,209.562 C 43.031796,148.61121 27.594695,54.006039 84.18041,84.832586 C 140.76612,115.65913 122.62785,168.68632 127.36169,234.74594 C 132.09553,300.80556 131.78766,312.39691 125.25892,348.28587 z"
+         id="path3359"
+         sodipodi:nodetypes="ccsszzzc" />
+      <path
+         sodipodi:nodetypes="csssc"
+         id="path2583"
+         d="M 434.28571,276.64789 C 434.28571,293.20789 418.92571,298.56667 400,298.56667 C 381.07429,298.56667 365.71429,293.20789 365.71429,276.64789 C 365.71429,260.08789 383.0946,279.98292 402.02031,279.98292 C 420.94602,279.98292 434.28571,260.08789 434.28571,276.64789 z"
+         style="fill:#fa0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;font-size:42.51135850000000005"
+         transform="translate(-301.00505,5.9780552)" />
+      <path
+         sodipodi:nodetypes="csssc"
+         id="path3357"
+         d="M 422.68343,278.63685 C 422.68343,295.19685 418.92571,306.64789 400,306.64789 C 381.07429,306.64789 397.5329,296.23835 397.5329,279.67835 C 397.5329,263.11835 381.07429,246.64789 400,246.64789 C 418.92571,246.64789 422.68343,262.07685 422.68343,278.63685 z"
+         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;font-size:42.51135850000000005"
+         transform="translate(-288.87303,69.576245)" />
+    </g>
+    <g
+       transform="matrix(0.2473779,0,0,0.2473779,447.13596,378.5834)"
+       id="g4688"
+       style="font-size:48.50877948000000117">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-size:48.50877948000000117"
+         d="M 351.42857,349.50504 L 356.0745,321.10948 L 319.05541,305.73073 L 311.42857,272.36218 L 337.71018,301.27425 L 375.54867,302.29872 L 335.65109,274.21987 L 354.82124,236.81351 L 380.07736,281.87773 L 400.00246,258.8654 L 397.14286,215.21933"
+         id="path3379"
+         sodipodi:nodetypes="ccccccccccc" />
+      <path
+         transform="translate(10.607047,-62.820318)"
+         d="m 434.28571,276.64789 c 0,16.56854 -15.35023,30 -34.28571,30 -18.93548,0 -34.28571,-13.43146 -34.28571,-30 0,-16.56854 15.35023,-30 34.28571,-30 18.93548,0 34.28571,13.43146 34.28571,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="34.285713"
+         sodipodi:cy="276.64789"
+         sodipodi:cx="400"
+         id="path3373"
+         style="opacity:1;fill:#fa0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-size:48.50877948000000117"
+         sodipodi:type="arc" />
+      <path
+         transform="translate(-64.445843,85.571215)"
+         d="m 434.28571,276.64789 c 0,16.56854 -15.35023,30 -34.28571,30 -18.93548,0 -34.28571,-13.43146 -34.28571,-30 0,-16.56854 15.35023,-30 34.28571,-30 18.93548,0 34.28571,13.43146 34.28571,30 z"
+         sodipodi:ry="30"
+         sodipodi:rx="34.285713"
+         sodipodi:cy="276.64789"
+         sodipodi:cx="400"
+         id="path3375"
+         style="opacity:1;fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-size:48.50877948000000117"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3383"
+       d="M 540.84358,474.76446 L 561.59497,437.0808"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.70408082000000005px;stroke-linecap:butt;stroke-linejoin:miter;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend);stroke-opacity:1;font-size:12" />
+    <rect
+       ry="0"
+       rx="0"
+       y="418.62201"
+       x="519.46039"
+       height="63.329109"
+       width="53.559692"
+       id="rect4756"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.70408082000000005;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-size:12" />
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-size:12"
+       id="rect4904"
+       width="13.233251"
+       height="13.762581"
+       x="479.76447"
+       y="327.78943" />
+    <g
+       id="g4912"
+       transform="translate(576.79503,373.3999)"
+       style="font-size:12">
+      <path
+         sodipodi:nodetypes="cczssssc"
+         id="path4906"
+         d="M -91.757495,88.429183 C -91.128276,105.3096 -107.81446,124.61746 -94.6284,137.01377 C -76.981063,146.63003 -77.668506,137.29852 -77.787353,124.26047 C -77.906253,111.2165 -89.740326,95.67172 -80.977435,81.624607 C -72.289892,67.698277 -70.559322,52.862082 -69.837782,36.566634 C -69.035682,18.452009 -69.250367,13.703492 -82.279278,13.532918 C -100.20285,13.298264 -101.09367,33.213042 -94.46838,46.322144 C -90.073198,55.018654 -93.600411,78.298537 -91.757495,88.429183 z"
+         style="fill:#00faf8;fill-opacity:0.73311892999999984;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-size:12" />
+      <path
+         style="fill:#fa0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;font-size:12"
+         d="M -94.021851,69.894863 C -94.021851,74.569378 -89.686069,76.082041 -84.343766,76.082041 C -79.001464,76.082041 -74.665682,74.569378 -74.665682,69.894863 C -74.665682,65.220347 -79.571752,70.836267 -84.914055,70.836267 C -90.256357,70.836267 -94.021851,65.220347 -94.021851,69.894863 z"
+         id="path4908"
+         sodipodi:nodetypes="csssc" />
+      <path
+         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;font-size:12"
+         d="M -94.171385,87.660055 C -94.171385,92.33457 -87.402699,96.034807 -85.429032,96.034807 C -83.548939,96.034807 -84.639053,91.879976 -84.639053,87.20546 C -84.639053,82.530945 -79.150998,79.19173 -84.4933,79.19173 C -89.835603,79.19173 -94.171385,82.985539 -94.171385,87.660055 z"
+         id="path4910"
+         sodipodi:nodetypes="czssc" />
+    </g>
+    <rect
+       ry="0"
+       rx="0"
+       y="435.8125"
+       x="480.36243"
+       height="35.818554"
+       width="26.619385"
+       id="rect4693"
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.21637177000000007;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;font-size:12" />
+    <text
+       xml:space="preserve"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="558.06464"
+       y="462.64426"
+       id="text6004"><tspan
+         sodipodi:role="line"
+         id="tspan6006"
+         x="558.06464"
+         y="462.64426">r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="407.0704"
+       y="445.50534"
+       id="text6008"><tspan
+         sodipodi:role="line"
+         id="tspan6010"
+         x="407.0704"
+         y="445.50534">Cen2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial;-inkscape-font-specification:Arial"
+       x="403.54214"
+       y="465.79272"
+       id="text6012"><tspan
+         sodipodi:role="line"
+         id="tspan6014"
+         x="403.54214"
+         y="465.79272">Ndc80</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"
+       x="515.36725"
+       y="279.5853"
+       id="text3290"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3292"
+         x="515.36725"
+         y="279.5853">126</tspan></text>
+  </g>
+</svg>
