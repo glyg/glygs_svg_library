@@ -1,6 +1,0 @@
-
-
-
-commands = []
-for name1, name2 in zip(svg_clean, svg_cut):
-        commands.append('cp -uR %s %s' % (name1[:-1], name2[:-1]))
